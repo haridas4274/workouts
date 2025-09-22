@@ -27,3 +27,5 @@ git push -u origin feature-login
 
 
 -u sets upstream so future git push works automatically.
+
+checkout branch is master but push code with other branch
